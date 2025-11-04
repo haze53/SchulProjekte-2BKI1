@@ -1,5 +1,5 @@
-// Übung 2: Benutzereingabe und einfache Ausgabe
-/*import java.util.Scanner;
+ Übung 2: Benutzereingabe und einfache Ausgabe
+*import java.util.Scanner;
 
 public class übung21 {
     public static void main(String[] args) {
@@ -36,8 +36,7 @@ public class übung21 {
                 break;
         }
 
-        input.close(); // scanner Schließen
-
+        input.close();
     }
 
 }
