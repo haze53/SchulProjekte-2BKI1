@@ -1,7 +1,7 @@
 import java.awt.Container;
  import java.util.Scanner;
 
-public class übung3 {
+public class verzweigungen1 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
